@@ -70,12 +70,57 @@ Assessment
 
 Assessment is based on three components: five problem sets, four (in-class) quizzes, and the cumulative MATLAB exercises for the entire semester.
 
-| COURSEWORK | GRADING WEIGHTS |
-| --- | --- |
-| Problem sets 1–3 and 5 | (200/19)% each |
-| Problem Set 4 | (400/19)% |
-| Four quizzes | (125/19)% each |
-| Cumulative MATLAB exercises | (200/19)% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COURSEWORK
+{{< thclose >}}
+{{< thopen >}}
+GRADING WEIGHTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets 1–3 and 5
+{{< tdclose >}}
+{{< tdopen >}}
+(200/19)% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 4
+{{< tdclose >}}
+{{< tdopen >}}
+(400/19)%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+(125/19)% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cumulative MATLAB exercises
+{{< tdclose >}}
+{{< tdopen >}}
+(200/19)%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Note the preponderance of MATLAB exercises will be during the first month of the semester.
 

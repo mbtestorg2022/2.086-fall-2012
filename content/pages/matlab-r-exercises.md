@@ -8,19 +8,144 @@ This page presents the MATLAB® exercises used in the recitation sessions. Solut
 
 _NOTE_: the references to "Stellar" in each file are irrelevant for OCW users. Stellar is MIT's learning management system for enrolled students.
 
-| RECITATIONS | MATLAB EXERCISES (no solutions) |
-| --- | --- |
-| 1 | [MATLAB Exercises 1 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex1) |
-| 2 | [MATLAB Exercises 2 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex2) |
-| 3 | [MATLAB Exercises 3 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex3) |
-| 4 | [MATLAB Exercises 4 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex4) |
-| 5 | No exercises |
-| 6 | [MATLAB Exercises 6 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex6) |
-| 7 | [MATLAB Exercises 7 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex7) |
-| 8 | [MATLAB Exercises 8 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex8) |
-| 9 | [MATLAB Exercises 9 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex9) |
-| 10 | No exercises |
-| 11 | [MATLAB Exercises 11 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex11) |
-| 12 | [MATLAB Exercises 12 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex12) |
-| 13 | No exercises |
-| 14 | No exercises
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+RECITATIONS
+{{< thclose >}}
+{{< thopen >}}
+MATLAB EXERCISES (no solutions)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[MATLAB Exercises 1 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[MATLAB Exercises 2 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[MATLAB Exercises 3 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[MATLAB Exercises 4 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+No exercises
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[MATLAB Exercises 6 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+[MATLAB Exercises 7 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex7)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+[MATLAB Exercises 8 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex8)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+[MATLAB Exercises 9 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex9)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+No exercises
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+[MATLAB Exercises 11 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+[MATLAB Exercises 12 (PDF)]({{< baseurl >}}/resources/mit2_086f12_matlab_ex12)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+No exercises
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+No exercises
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
