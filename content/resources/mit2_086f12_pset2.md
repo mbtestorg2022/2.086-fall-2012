@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding problem set 2.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/2adb19a2bdbf02b4fa3f576bf3ead22d_MIT2_086F12_pset2.pdf
 file_type: application/pdf
+parent_uid: 39d5c010-34bb-c7d4-bd0c-427acf3354cd
 resourcetype: Document
 title: Problem Set 2
 uid: 2adb19a2-bdbf-02b4-fa3f-576bf3ead22d

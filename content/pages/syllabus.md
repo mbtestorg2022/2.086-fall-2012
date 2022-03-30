@@ -14,11 +14,11 @@ Recitation / labs: 1 session / week, 3 hours / session
 Related Courses
 ---------------
 
-Prerequisites: [_2.001 Mechanics and Materials I_](/courses/2-001-mechanics-materials-i-fall-2006/), [_2.003J Dynamics and Control I_](/courses/2-003j-dynamics-and-control-i-fall-2007/) 
+Prerequisites: [_2.001 Mechanics and Materials I_](/courses/2-001-mechanics-materials-i-fall-2006), [_2.003J Dynamics and Control I_](/courses/2-003j-dynamics-and-control-i-fall-2007) 
 
 Co-requisite: _2.005 Thermal-Fluids Engineering I_
 
-This course is geared toward undergraduate students. A more advanced graduate-level treatment can be found in [_16.920J/2.097J/6.339J Numerical Methods for Partial Differential Equations_](/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/).
+This course is geared toward undergraduate students. A more advanced graduate-level treatment can be found in [_16.920J/2.097J/6.339J Numerical Methods for Partial Differential Equations_](/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003).
 
 Software
 --------

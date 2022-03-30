@@ -4,6 +4,7 @@ description: This resource contains information regarding (Numerical) Calculus; 
   Programming Concepts from Math, Numerics, and Programming (for Mechanical Engineers).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/60dcae084890daa22bad45fa1d8b8da6_MIT2_086F12_notes_unit1.pdf
 file_type: application/pdf
+parent_uid: c98439d5-6a6d-7a4d-d7a4-d2681b1866d2
 resourcetype: Document
 title: 'Unit 1: . (Numerical) Calculus; Elementary Programming Concepts from Math,
   Numerics, and Programming (for Mechanical Engineers). V1.2, September 2012.'
